@@ -1,0 +1,18 @@
+{
+  "id": "patents_act_1970_sec3d",
+  "act": "The Patents Act, 1970",
+  "act_number": "Act No. 39 of 1970",
+  "section": "Section 3(d)",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1392",
+  "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce and Industry",
+  "amendment_year": 2005,
+  "in_force": true,
+  "title": "Inventions not patentable: New Form of Known Substance",
+  "raw_text": "What are not inventions: The following are not inventions within the meaning of this Act:—\n(d) the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance or the mere discovery of any new property or new use for a known substance or of the mere use of a known process, machine or apparatus unless such known process results in a new product or employs at least one new reactant.\nExplanation.—For the purposes of this clause, salts, esters, ethers, polymorphs, metabolites, pure form, particle size, isomers, mixtures of isomers, complexes, combinations and other derivatives of known substance shall be considered to be the same substance, unless they differ significantly in properties with regard to efficacy.",
+  "guidance": "Extracts or standardized fractions of known Ayurvedic herbs must demonstrate enhanced therapeutic efficacy (not merely pharmacokinetic bioavailability) over the crude traditional preparation to overcome Section 3(d).",
+  "doctrines": [
+    "incremental_innovation",
+    "efficacy_enhancement",
+    "section_3d"
+  ]
+}

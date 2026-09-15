@@ -1,0 +1,14 @@
+{
+  "id": "wipo_gratk_treaty_2024",
+  "category": "international_treaty",
+  "authority": "World Intellectual Property Organization (WIPO)",
+  "source_url": "https://www.wipo.int/meetings/en/2024/gratk-treaty.html",
+  "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (GRATK, May 2024)",
+  "raw_text": "Adopted at Geneva on May 24, 2024:\nArticle 3 (Disclosure Requirement):\n1. Where the claimed invention in a patent application is materially or directly based on genetic resources, each Contracting Party shall require applicants to disclose the country of origin of the genetic resources.\n2. Where the claimed invention in a patent application is materially or directly based on traditional knowledge associated with genetic resources, each Contracting Party shall require applicants to disclose the Indigenous People or local community who provided the traditional knowledge.\n3. Article 6 establishes an Information System on Genetic Resources and Associated Traditional Knowledge.",
+  "guidance": "Historic milestone: Any foreign patent filed in the US, Europe, Japan, or PCT contracting states claiming Indian herbs is now internationally required to disclose India as the origin and disclose associated traditional knowledge.",
+  "doctrines": [
+    "wipo_gratk_2024",
+    "international_origin_disclosure",
+    "tkdl_international_linkage"
+  ]
+}

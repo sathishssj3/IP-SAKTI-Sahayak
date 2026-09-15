@@ -1,0 +1,14 @@
+{
+  "id": "cgpdtm_tk_guidelines_gp3",
+  "category": "examination_guideline",
+  "source": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+  "source_url": "https://ipindia.gov.in/guidelines-patents.htm",
+  "title": "Guiding Principle 3 (GP-3): Synergistic Efficacy Requirements under Section 3(e)",
+  "raw_text": "Guiding Principle 3: When a patent application claims a composition comprising two or more active herbal ingredients, it must be demonstrated that the combination produces a synergistic effect that is more than the mere additive sum of the individual components. The applicant must submit comparative experimental data showing the efficacy of the combination against each constituent administered individually at corresponding dosages.",
+  "guidance": "Gold standard for polyherbal Ayurvedic patent applications: Include in vitro / in vivo data calculating the Combination Index (CI < 1.0) or dose-reduction index (DRI) demonstrating synergistic therapeutic action.",
+  "doctrines": [
+    "gp3_sec3e_synergy",
+    "comparative_experimental_data",
+    "cgpdtm_guidelines"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tkdl_landmark_case_turmeric",
+  "category": "defensive_prior_art_case",
+  "authority": "CSIR-TKDL / USPTO",
+  "source_url": "https://www.csir.res.in/tkdl",
+  "title": "Landmark Defense 1: Revocation of US Patent 5,401,504 (Turmeric / Curcuma longa)",
+  "raw_text": "Case Analysis: US Patent No. 5,401,504 titled 'Use of Turmeric in Wound Healing' granted to University of Mississippi Medical Center in March 1995.\nChallenged By: CSIR (Council of Scientific and Industrial Research), India.\nPrior Art Cited: CSIR produced 32 references from classical Ayurvedic texts including Charaka Samhita, Sushruta Samhita, and Bhavaprakasha, proving that oral and topical application of Curcuma longa powder for wound healing, ulcers, and inflammation has been documented and practiced in India for over 2,000 years.\nOutcome: USPTO revoked all 6 claims of the patent in 1997 on grounds of anticipation and lack of novelty under 35 U.S.C. 102.",
+  "guidance": "Foundational legal precedent: Any patent claim seeking to monopolize the therapeutic use of raw turmeric or basic curcumin extracts for wound healing or inflammation will be instantly struck down under Section 3(p).",
+  "doctrines": [
+    "turmeric_case",
+    "tkdl_revocation",
+    "curcuma_longa",
+    "section_3p_anticipation"
+  ]
+}

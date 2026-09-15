@@ -1,0 +1,16 @@
+{
+  "id": "tkdl_first_schedule_classical_texts",
+  "category": "ayurvedic_canon",
+  "authority": "Ministry of Ayush / DCA 1940 First Schedule",
+  "source_url": "https://ayush.gov.in",
+  "title": "The 54 Authoritative Classical Books of the First Schedule (Drugs & Cosmetics Act, 1940)",
+  "raw_text": "Statutory Canon of 54 Authoritative Ayurvedic Texts:\n1. Charaka Samhita (Maharishi Agnivesha / Charaka / Dridhabala)\n2. Sushruta Samhita (Maharishi Sushruta / Nagarjuna)\n3. Ashtanga Hridaya (Acharya Vagbhata)\n4. Ashtanga Samgraha (Vagbhata)\n5. Sharangadhara Samhita (Sharangadhara Acharya - Nadipariksha & pharmaceutical processes)\n6. Bhavaprakasha (Bhavamishra - Dravyaguna materia medica)\n7. Bhaishajya Ratnavali (Govinda Dasa Sen)\n8. Sahasrayogam (Classical Kerala Ayurvedic Formulary)\n9. Madhava Nidana (Rogavinishchaya by Madhavakara)\n10. Rasaratna Samuchchaya (Rasa Shastra / Iatrochemistry)\n11. Chakradatta (Chakrapani Datta)\n12. Ayurvedic Formulary of India (AFI, Part I, II, III)\n13. Ayurvedic Pharmacopoeia of India (API, Parts I & II)... and other statutory texts.",
+  "guidance": "Any medicine prepared strictly in accordance with these 54 books is legally classified as a 'Classical Ayurvedic Drug' under DCA Section 3(a) and enjoys Rule 158B(a) clinical trial exemptions, but cannot be claimed as an inventive monopoly under Patent Law.",
+  "doctrines": [
+    "first_schedule_texts",
+    "charaka_samhita",
+    "sushruta_samhita",
+    "sahasrayogam",
+    "rule_158b_a"
+  ]
+}

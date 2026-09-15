@@ -1,0 +1,15 @@
+{
+  "id": "cgpdtm_tk_guidelines_gp4",
+  "category": "examination_guideline",
+  "source": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+  "source_url": "https://ipindia.gov.in/guidelines-patents.htm",
+  "title": "Guiding Principle 4 (GP-4): Section 3(d) Enhanced Efficacy for Extracts and Derivatives",
+  "raw_text": "Guiding Principle 4: Where the claimed invention relates to an extract, isolated fraction, or derivative of a traditionally known plant, it shall be examined under Section 3(d). The applicant must prove significant enhancement in therapeutic efficacy compared to the crude traditional extract. An increase in yield, purity, or simple physical solubility without demonstrated therapeutic superiority will not overcome Section 3(d).",
+  "guidance": "Follows landmark Supreme Court ruling in Novartis AG v. Union of India (2013). Bioavailability increases alone are insufficient unless directly translated into enhanced in vivo therapeutic outcomes.",
+  "doctrines": [
+    "gp4_sec3d_efficacy",
+    "isolated_fractions",
+    "novartis_doctrine",
+    "cgpdtm_guidelines"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dca_1940_sec3a",
+  "act": "The Drugs and Cosmetics Act, 1940",
+  "act_number": "Act No. 23 of 1940",
+  "section": "Section 3(a) & First Schedule",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/2389",
+  "authority": "Ministry of Ayush / CDSCO / State Licensing Authorities",
+  "amendment_year": 1982,
+  "in_force": true,
+  "title": "Definition of Ayurvedic, Siddha or Unani drug and 54 Classical Authoritative Texts",
+  "raw_text": "Definitions: In this Act, unless there is anything repugnant in the subject or context,—\n(a) 'Ayurvedic, Siddha or Unani drug' includes all medicines intended for internal or external use for or in the diagnosis, treatment, mitigation or prevention of any disease or disorder in human beings or animals, and manufactured exclusively in accordance with the formulae described in, the authoritative books of Ayurvedic, Siddha and Unani systems of medicine, specified in the First Schedule.",
+  "guidance": "First Schedule recognizes 54 classical texts including Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya, Sharangadhara Samhita, Bhaishajya Ratnavali, and Sahasrayogam. Any drug made strictly per these texts is a Classical Ayurvedic Drug exempt from preclinical toxicity testing under Rule 158B(a).",
+  "doctrines": [
+    "classical_ayurvedic_drug",
+    "first_schedule_54_texts",
+    "dca_section_3a"
+  ]
+}

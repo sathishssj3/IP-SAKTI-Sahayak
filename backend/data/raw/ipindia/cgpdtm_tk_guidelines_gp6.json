@@ -1,0 +1,14 @@
+{
+  "id": "cgpdtm_tk_guidelines_gp6",
+  "category": "examination_guideline",
+  "source": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+  "source_url": "https://ipindia.gov.in/guidelines-patents.htm",
+  "title": "Guiding Principle 6 (GP-6): NBA Approval Prerequisite before Grant of Patent",
+  "raw_text": "Guiding Principle 6: In every patent application involving Indian biological resources or traditional knowledge, the Controller shall not grant the patent until the applicant produces proof of permission/approval from the National Biodiversity Authority (NBA) in accordance with Section 6 of the Biological Diversity Act, 2002. A formal objection shall be raised in the First Examination Report (FER) requiring submission of NBA Form III approval.",
+  "guidance": "Patent examination can proceed through hearings, but the patent certificate will be legally withheld until the applicant files Form 3 with NBA and submits the NBA approval certificate to the Patent Office.",
+  "doctrines": [
+    "gp6_nba_clearance",
+    "nba_form_3_mandatory",
+    "cgpdtm_guidelines"
+  ]
+}

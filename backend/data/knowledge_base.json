@@ -1,0 +1,656 @@
+{
+  "statutes": [
+    {
+      "id": "patents_act_1970_sec3p",
+      "regime": "national",
+      "act": "The Patents Act, 1970",
+      "section": "Section 3(p)",
+      "amendment_year": 2005,
+      "in_force": true,
+      "authority_body": "Indian Patent Office (CGPDTM) / Ministry of Commerce and Industry",
+      "title": "Inventions not patentable: Traditional Knowledge Exclusion",
+      "text": "What are not inventions: The following are not inventions within the meaning of this Act:—\n(p) an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components.",
+      "guidance": "Classical Ayurvedic formulations recorded in First Schedule authoritative texts (e.g., Charaka Samhita, Sushruta Samhita) cannot be patented as compositions. To overcome Section 3(p), the applicant must demonstrate isolation of novel bioactive molecules, significant structural modifications, novel mechanisms of action, or novel drug delivery systems (NDDS) not disclosed in traditional literature.",
+      "doctrines": [
+        "traditional_knowledge",
+        "patentability_exclusion",
+        "section_3p"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/1392"
+    },
+    {
+      "id": "patents_act_1970_sec3e",
+      "regime": "national",
+      "act": "The Patents Act, 1970",
+      "section": "Section 3(e)",
+      "amendment_year": 2002,
+      "in_force": true,
+      "authority_body": "Indian Patent Office (CGPDTM) / Ministry of Commerce and Industry",
+      "title": "Inventions not patentable: Mere Admixture Bar",
+      "text": "What are not inventions: The following are not inventions within the meaning of this Act:—\n(e) a substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance.",
+      "guidance": "For polyherbal Ayurvedic formulations (combining two or more known botanicals), applicants must provide comparative synergistic efficacy data (e.g., Combination Index CI < 1.0 using Chou-Talalay method or statistically significant enhanced bioactivity over individual herbal extracts). In the absence of synergy data, patent claims will be rejected under Section 3(e).",
+      "doctrines": [
+        "mere_admixture",
+        "synergy",
+        "polyherbal_combination",
+        "section_3e"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/1392"
+    },
+    {
+      "id": "patents_act_1970_sec3d",
+      "regime": "national",
+      "act": "The Patents Act, 1970",
+      "section": "Section 3(d)",
+      "amendment_year": 2005,
+      "in_force": true,
+      "authority_body": "Indian Patent Office (CGPDTM) / Ministry of Commerce and Industry",
+      "title": "Inventions not patentable: New Form of Known Substance",
+      "text": "What are not inventions: The following are not inventions within the meaning of this Act:—\n(d) the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance or the mere discovery of any new property or new use for a known substance or of the mere use of a known process, machine or apparatus unless such known process results in a new product or employs at least one new reactant.\nExplanation.—For the purposes of this clause, salts, esters, ethers, polymorphs, metabolites, pure form, particle size, isomers, mixtures of isomers, complexes, combinations and other derivatives of known substance shall be considered to be the same substance, unless they differ significantly in properties with regard to efficacy.",
+      "guidance": "Extracts or standardized fractions of known Ayurvedic herbs must demonstrate enhanced therapeutic efficacy (not merely pharmacokinetic bioavailability) over the crude traditional preparation to overcome Section 3(d).",
+      "doctrines": [
+        "incremental_innovation",
+        "efficacy_enhancement",
+        "section_3d"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/1392"
+    },
+    {
+      "id": "patents_act_1970_sec10_4_ii_D",
+      "regime": "national",
+      "act": "The Patents Act, 1970",
+      "section": "Section 10(4)(ii)(D)",
+      "amendment_year": 2002,
+      "in_force": true,
+      "authority_body": "Indian Patent Office (CGPDTM)",
+      "title": "Contents of Specifications: Disclosure of Source and Geographical Origin",
+      "text": "Every complete specification shall—\n(ii) disclose the source and geographical origin of the biological material in the specification, when used in an invention.",
+      "guidance": "Mandatory disclosure: Whenever biological materials (e.g. Withania somnifera, Curcuma longa, Bacopa monnieri) are mentioned in the patent specification, the applicant MUST specify the source and state/region of collection. Failure to disclose or wrongful disclosure is a valid ground for pre-grant opposition under Section 25(1)(j) and revocation under Section 64(1)(p).",
+      "doctrines": [
+        "disclosure_of_origin",
+        "biological_material",
+        "section_10"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/1392"
+    },
+    {
+      "id": "patents_rules_2024_rule12",
+      "regime": "national",
+      "act": "The Patents Rules, 2003 (as amended by Patents (Amendment) Rules, 2024)",
+      "section": "Rule 12 & Form 3",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "DPIIT / Indian Patent Office",
+      "title": "Statement and Undertaking regarding foreign applications",
+      "text": "Substituted Rule 12 simplifies compliance for applicants: The applicant shall file the statement and undertaking in Form 3 within three months from the date of issuance of first examination report (FER). The Controller may also use accessible public databases to review corresponding foreign patent applications.",
+      "guidance": "March 2024 procedural reform: Removes the cumbersome requirement of updating Form 3 every 6 months. For AYUSH startups filing international PCT/Paris Convention applications, updates are consolidated to 3 months post-FER.",
+      "doctrines": [
+        "foreign_filing",
+        "form_3",
+        "patents_rules_2024",
+        "expedited_compliance"
+      ],
+      "official_link": "https://ipindia.gov.in/rules-patents.htm"
+    },
+    {
+      "id": "bda_2002_amendment_2023_sec3",
+      "regime": "national",
+      "act": "The Biological Diversity Act, 2002 (as amended by Act No. 10 of 2023)",
+      "section": "Section 3",
+      "amendment_year": 2023,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA)",
+      "title": "Certain persons not to undertake Biodiversity related activities without approval of NBA",
+      "text": "No person who is—\n(a) not a citizen of India;\n(b) a citizen of India, who is a non-resident as defined in clause (30) of section 2 of the Income-tax Act, 1961;\n(c) a body corporate, association or organization—\n (i) not incorporated or registered in India; or\n (ii) incorporated or registered in India under any law for the time being in force, which is a foreign-controlled company or foreign company within the meaning of the Companies Act, 2013,\nshall, without the previous approval of the National Biodiversity Authority, access biological resources occurring in India or associated knowledge thereto for research or for commercial utilization or for bio-survey and bio-utilization.",
+      "guidance": "Any Indian startup with foreign shareholding (FDI / foreign investors) is classified as a Section 3 entity and MUST obtain prior approval from NBA via Form I before accessing Indian biological resources or filing patents.",
+      "doctrines": [
+        "nba_approval",
+        "foreign_entity",
+        "form_1",
+        "section_3_bda"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/2037"
+    },
+    {
+      "id": "bda_2002_amendment_2023_sec6",
+      "regime": "national",
+      "act": "The Biological Diversity Act, 2002 (as amended by Act No. 10 of 2023)",
+      "section": "Section 6",
+      "amendment_year": 2023,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA)",
+      "title": "Application for intellectual property rights not to be made without approval of National Biodiversity Authority",
+      "text": "(1) No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining the previous approval of the National Biodiversity Authority before grant of such intellectual property right:\nProvided that in case of any person applying for a patent, subsequent permission of the National Biodiversity Authority may be obtained after the filing of the application for patent but before the grant of the patent by the patent authority.",
+      "guidance": "Crucial statutory timeline: Applicants can file their Indian patent application first (to establish priority date), but MUST submit NBA Form III and obtain formal NBA approval BEFORE the patent office grants and seals the patent.",
+      "doctrines": [
+        "nba_form_3",
+        "ipr_approval",
+        "patent_grant_prerequisite",
+        "section_6_bda"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/2037"
+    },
+    {
+      "id": "bda_2002_amendment_2023_sec7",
+      "regime": "national",
+      "act": "The Biological Diversity Act, 2002 (as amended by Act No. 10 of 2023)",
+      "section": "Section 7 (Proviso)",
+      "amendment_year": 2023,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA) & State Biodiversity Boards (SBB)",
+      "title": "Prior intimation to State Biodiversity Board for accessing biological resources for commercial utilization",
+      "text": "No person, who is a citizen of India or a body corporate, association or organisation which is registered in India, shall access any biological resource for commercial utilisation, without giving prior intimation to the State Biodiversity Board concerned:\nProvided that the provisions of this section shall not apply to the local people and communities of the area, including growers and cultivators of biological resources, and to registered AYUSH practitioners: Provided further that nothing contained in this section shall apply to codified traditional knowledge or cultivated medicinal plants.",
+      "guidance": "2023 Landmark Exemption: Registered AYUSH practitioners, vaidyas, and cultivators of medicinal herbs are statutorily exempt from prior intimation to SBB. However, commercial pharmaceutical manufacturers, extract exporters, and corporate entities commercializing formulation patents remain strictly liable for ABS payment.",
+      "doctrines": [
+        "ayush_practitioner_exemption",
+        "sbb_intimation",
+        "cultivated_medicinal_plants",
+        "section_7_bda"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/2037"
+    },
+    {
+      "id": "dca_1940_sec3a",
+      "regime": "national",
+      "act": "The Drugs and Cosmetics Act, 1940",
+      "section": "Section 3(a) & First Schedule",
+      "amendment_year": 1982,
+      "in_force": true,
+      "authority_body": "Ministry of Ayush / CDSCO / State Licensing Authorities",
+      "title": "Definition of Ayurvedic, Siddha or Unani drug and 54 Classical Authoritative Texts",
+      "text": "Definitions: In this Act, unless there is anything repugnant in the subject or context,—\n(a) 'Ayurvedic, Siddha or Unani drug' includes all medicines intended for internal or external use for or in the diagnosis, treatment, mitigation or prevention of any disease or disorder in human beings or animals, and manufactured exclusively in accordance with the formulae described in, the authoritative books of Ayurvedic, Siddha and Unani systems of medicine, specified in the First Schedule.",
+      "guidance": "First Schedule recognizes 54 classical texts including Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya, Sharangadhara Samhita, Bhaishajya Ratnavali, and Sahasrayogam. Any drug made strictly per these texts is a Classical Ayurvedic Drug exempt from preclinical toxicity testing under Rule 158B(a).",
+      "doctrines": [
+        "classical_ayurvedic_drug",
+        "first_schedule_54_texts",
+        "dca_section_3a"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/2389"
+    },
+    {
+      "id": "dca_rules_1945_rule158b",
+      "regime": "national",
+      "act": "The Drugs and Cosmetics Rules, 1945",
+      "section": "Rule 158B",
+      "amendment_year": 2010,
+      "in_force": true,
+      "authority_body": "State Ayush Licensing Authorities (SLA)",
+      "title": "Guidelines for Issue of License with respect to Ayurvedic, Siddha or Unani Drugs",
+      "text": "Rule 158B sets down evidence required for grant of manufacturing licenses:\n(a) Classical Ayurvedic Medicines: Manufactured strictly as per First Schedule texts. No animal toxicity or clinical trial data required provided raw materials and dosage adhere to classical text.\n(b) Patent or Proprietary (P&P) Ayurvedic Medicines: Formulations containing ingredients mentioned in authoritative books but in novel combinations or dosage forms. Requires published scientific literature on safety, pilot clinical safety/efficacy studies, and acute toxicity studies.",
+      "guidance": "Form 25D manufacturing license categorization. P&P medicines can seek proprietary branding and trademark protection, but classical medicines remain in public domain.",
+      "doctrines": [
+        "rule_158b",
+        "classical_vs_pnp",
+        "form_25d",
+        "ayush_licensing"
+      ],
+      "official_link": "https://cdsco.gov.in/opencms/opencms/en/Ayush/Ayush-Rules/"
+    },
+    {
+      "id": "gi_act_1999_sec8_sec9",
+      "regime": "national",
+      "act": "The Geographical Indications of Goods (Registration and Protection) Act, 1999",
+      "section": "Section 8 & Section 9",
+      "amendment_year": 1999,
+      "in_force": true,
+      "authority_body": "Geographical Indications Registry, Chennai (CGPDTM)",
+      "title": "Prohibition of registration of certain geographical indications",
+      "text": "A geographical indication—\n(a) the use of which would be likely to deceive or cause confusion; or\n(b) the use of which would be contrary to any law for the time being in force; or\n(c) which comprises or contains scandalous or obscene matter; or\n(d) which comprises or contains any matter likely to hurt the religious susceptibilities of any class of citizens; or\n(e) which would otherwise be disentitled to protection in a court; or\n(f) which are determined to be generic names or indications of goods and have, therefore, ceased to be protected in their country of origin, shall not be registered.",
+      "guidance": "Guards regional Ayurvedic botanicals (e.g. Malabar Pepper, Erode Turmeric, Kashmir Saffron, Navara Rice) from deceptive trademark appropriation or false geographical origins.",
+      "doctrines": [
+        "geographical_indication",
+        "botanical_origin",
+        "gi_act_1999"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/1983"
+    },
+    {
+      "id": "trademarks_act_1999_sec9_1_b",
+      "regime": "national",
+      "act": "The Trade Marks Act, 1999",
+      "section": "Section 9(1)(b)",
+      "amendment_year": 1999,
+      "in_force": true,
+      "authority_body": "Trade Marks Registry (CGPDTM)",
+      "title": "Absolute grounds for refusal of registration: Descriptive Names",
+      "text": "The trade marks—\n(b) which consist exclusively of marks or indications which may serve in trade to designate the kind, quality, quantity, intended purpose, values, geographical origin or the time of production of the goods or of rendering of the service, or other characteristics of the goods or service, shall not be registered.",
+      "guidance": "Ayurvedic brand names cannot monopolize generic Sanskrit herb names (e.g. 'Ashwagandha Oil', 'Triphala Churna', 'Pure Curcumin') as trademarks in Class 5. Distinctive invented brand prefixes (e.g. 'Vedix Triphala-Active') are required to overcome Section 9(1)(b) objections.",
+      "doctrines": [
+        "trademark_refusal",
+        "descriptive_ayurvedic_terms",
+        "class_5_pharma"
+      ],
+      "official_link": "https://www.indiacode.nic.in/handle/123456789/1993"
+    },
+    {
+      "id": "cgpdtm_tk_guidelines_gp1",
+      "regime": "national",
+      "act": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+      "section": "Guiding Principle 1 (GP-1): Exhaustive Search in Traditional Knowledge Digital Library (TKDL)",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "Guiding Principle 1 (GP-1): Exhaustive Search in Traditional Knowledge Digital Library (TKDL)",
+      "text": "Guiding Principle 1: An exhaustive search shall be carried out in the Traditional Knowledge Digital Library (TKDL) and other classical and contemporary traditional knowledge databases before proceeding with examination of patent applications involving plants, minerals, or traditional formulations. The examiner must verify whether the claimed medicinal utility is already cited in Sanskrit, Urdu, Arabic, Persian, or Tamil classical texts.",
+      "guidance": "Inventors must conduct pre-filing TKDL and prior-art searches. If the formulation or therapeutic use is recorded in TKDL, the patent examiner will cite the classical shloka / formulation code as novelty-destroying prior art.",
+      "doctrines": [
+        "gp1_prior_art_search",
+        "tkdl_search",
+        "cgpdtm_guidelines",
+        "novelty_examination"
+      ],
+      "official_link": "https://ipindia.gov.in/guidelines-patents.htm"
+    },
+    {
+      "id": "cgpdtm_tk_guidelines_gp2",
+      "regime": "national",
+      "act": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+      "section": "Guiding Principle 2 (GP-2): Assessment of Section 3(p) Traditional Knowledge Bar",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "Guiding Principle 2 (GP-2): Assessment of Section 3(p) Traditional Knowledge Bar",
+      "text": "Guiding Principle 2: If the subject matter of an application relates to a known traditional medicinal plant or a formulation containing known herbs, and the claimed therapeutic effect is known in traditional knowledge, the application falls under the exclusion of Section 3(p) of the Patents Act, 1970. Mere presentation in a modern dosage form (such as a tablet, capsule, or syrup) does not impart patentability to a classical Ayurvedic recipe.",
+      "guidance": "Reformulating an Ayurvedic churnam into an effervescent tablet or enteric-coated capsule is considered routine galenical formulation and cannot overcome Section 3(p) unless accompanied by unexpected pharmacokinetic or pharmacodynamic properties.",
+      "doctrines": [
+        "gp2_sec3p_bar",
+        "modern_dosage_forms",
+        "cgpdtm_guidelines"
+      ],
+      "official_link": "https://ipindia.gov.in/guidelines-patents.htm"
+    },
+    {
+      "id": "cgpdtm_tk_guidelines_gp3",
+      "regime": "national",
+      "act": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+      "section": "Guiding Principle 3 (GP-3): Synergistic Efficacy Requirements under Section 3(e)",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "Guiding Principle 3 (GP-3): Synergistic Efficacy Requirements under Section 3(e)",
+      "text": "Guiding Principle 3: When a patent application claims a composition comprising two or more active herbal ingredients, it must be demonstrated that the combination produces a synergistic effect that is more than the mere additive sum of the individual components. The applicant must submit comparative experimental data showing the efficacy of the combination against each constituent administered individually at corresponding dosages.",
+      "guidance": "Gold standard for polyherbal Ayurvedic patent applications: Include in vitro / in vivo data calculating the Combination Index (CI < 1.0) or dose-reduction index (DRI) demonstrating synergistic therapeutic action.",
+      "doctrines": [
+        "gp3_sec3e_synergy",
+        "comparative_experimental_data",
+        "cgpdtm_guidelines"
+      ],
+      "official_link": "https://ipindia.gov.in/guidelines-patents.htm"
+    },
+    {
+      "id": "cgpdtm_tk_guidelines_gp4",
+      "regime": "national",
+      "act": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+      "section": "Guiding Principle 4 (GP-4): Section 3(d) Enhanced Efficacy for Extracts and Derivatives",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "Guiding Principle 4 (GP-4): Section 3(d) Enhanced Efficacy for Extracts and Derivatives",
+      "text": "Guiding Principle 4: Where the claimed invention relates to an extract, isolated fraction, or derivative of a traditionally known plant, it shall be examined under Section 3(d). The applicant must prove significant enhancement in therapeutic efficacy compared to the crude traditional extract. An increase in yield, purity, or simple physical solubility without demonstrated therapeutic superiority will not overcome Section 3(d).",
+      "guidance": "Follows landmark Supreme Court ruling in Novartis AG v. Union of India (2013). Bioavailability increases alone are insufficient unless directly translated into enhanced in vivo therapeutic outcomes.",
+      "doctrines": [
+        "gp4_sec3d_efficacy",
+        "isolated_fractions",
+        "novartis_doctrine",
+        "cgpdtm_guidelines"
+      ],
+      "official_link": "https://ipindia.gov.in/guidelines-patents.htm"
+    },
+    {
+      "id": "cgpdtm_tk_guidelines_gp5",
+      "regime": "national",
+      "act": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+      "section": "Guiding Principle 5 (GP-5): Mandatory Disclosure of Source and Geographical Origin",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "Guiding Principle 5 (GP-5): Mandatory Disclosure of Source and Geographical Origin",
+      "text": "Guiding Principle 5: The examiner shall scrutinize the specification to ensure that the source and geographical origin of all biological materials used in the invention are disclosed in compliance with Section 10(4)(ii)(D). If the applicant has collected biological materials from outside India, the specific country and authority permitting access must be cited.",
+      "guidance": "Omission of GPS coordinates or specific district/state of collection in India creates an insurmountable Section 10 objection in First Examination Reports (FER).",
+      "doctrines": [
+        "gp5_origin_disclosure",
+        "section_10_compliance",
+        "cgpdtm_guidelines"
+      ],
+      "official_link": "https://ipindia.gov.in/guidelines-patents.htm"
+    },
+    {
+      "id": "cgpdtm_tk_guidelines_gp6",
+      "regime": "national",
+      "act": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+      "section": "Guiding Principle 6 (GP-6): NBA Approval Prerequisite before Grant of Patent",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "Guiding Principle 6 (GP-6): NBA Approval Prerequisite before Grant of Patent",
+      "text": "Guiding Principle 6: In every patent application involving Indian biological resources or traditional knowledge, the Controller shall not grant the patent until the applicant produces proof of permission/approval from the National Biodiversity Authority (NBA) in accordance with Section 6 of the Biological Diversity Act, 2002. A formal objection shall be raised in the First Examination Report (FER) requiring submission of NBA Form III approval.",
+      "guidance": "Patent examination can proceed through hearings, but the patent certificate will be legally withheld until the applicant files Form 3 with NBA and submits the NBA approval certificate to the Patent Office.",
+      "doctrines": [
+        "gp6_nba_clearance",
+        "nba_form_3_mandatory",
+        "cgpdtm_guidelines"
+      ],
+      "official_link": "https://ipindia.gov.in/guidelines-patents.htm"
+    },
+    {
+      "id": "inpass_ipc_ayush_classification",
+      "regime": "national",
+      "act": "InPASS Patent Search System / WIPO IPC",
+      "section": "InPASS International Patent Classification (IPC) for Ayurvedic & Herbal Formulations",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "InPASS International Patent Classification (IPC) for Ayurvedic & Herbal Formulations",
+      "text": "Primary IPC codes for Indian Traditional Knowledge and Ayurvedic formulations:\n- A61K 36/00: Medicinal preparations of undetermined constitution containing material from algae, lichens, fungi or plants\n- A61K 36/185: Magnoliopsida (dicotyledons)\n- A61K 36/88: Liliopsida (monocotyledons)\n- A61K 36/324: Boswellia (Sallaki / Frankincense)\n- A61K 36/9066: Curcuma longa (Haridra / Turmeric)\n- A61K 36/81: Withania somnifera (Ashwagandha)\n- A61K 125/00 - 135/00: TKDL specific traditional knowledge resource classification (TKRC) subclasses.",
+      "guidance": "Use these exact IPC classes when conducting prior art searches on InPASS, Google Patents, and Espacenet to surface conflicting prior applications.",
+      "doctrines": [
+        "inpass_search",
+        "ipc_classification",
+        "a61k_36"
+      ],
+      "official_link": "https://ipindiaonline.gov.in/patentsearch/search/index.aspx"
+    },
+    {
+      "id": "gi_registry_botanicals",
+      "regime": "national",
+      "act": "Geographical Indications Registry, Intellectual Property India",
+      "section": "Registered Indian Botanical and Ayurvedic Geographical Indications",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Government of India",
+      "title": "Registered Indian Botanical and Ayurvedic Geographical Indications",
+      "text": "Official Registered Botanical GIs of India:\n1. Kashmir Saffron (GI Application No. 635) — Crocus sativus, harvested in Pampore, J&K\n2. Erode Manjal / Turmeric (GI Application No. 444) — High curcuminoid variety from Tamil Nadu\n3. Malabar Pepper (GI Application No. 49) — Piper nigrum from Kerala / Western Ghats\n4. Navara Rice (GI Application No. 34) — Medicinal rice used in Ayurvedic Panchakarma Kizhithirumu\n5. Kangra Tea (GI Application No. 40) — Camellia sinensis from Himachal Pradesh\n6. Darjeeling Tea (GI Application No. 1 & 2) — Protected botanical GI\n7. Alleppey Green Cardamom (GI Application No. 50) — Elettaria cardamomum.",
+      "guidance": "Trademark applications for Ayurvedic products incorporating geographical names corresponding to these GIs will be refused under Section 9(1)(b) of the Trade Marks Act unless the applicant is a registered GI authorized user.",
+      "doctrines": [
+        "registered_gis",
+        "botanical_gi_protection",
+        "ayurvedic_herbal_gis"
+      ],
+      "official_link": "https://ipindia.gov.in/gi-registered.htm"
+    },
+    {
+      "id": "nba_form_1_access",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "NBA Form I: Application for Access to Biological Resources and Associated Traditional Knowledge",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA)",
+      "title": "NBA Form I: Application for Access to Biological Resources and Associated Traditional Knowledge",
+      "text": "Form I [See Rule 14 of Biological Diversity Rules, 2004]:\nApplication form for access to biological resources occurring in India and associated knowledge for the purpose of research or commercial utilization or bio-survey and bio-utilization.\nMandatory for all entities covered under Section 3(2) of the Act (non-citizens, NRIs, foreign companies, or Indian companies with any foreign shareholding/control).\nApplication Fee: ₹10,000.\nRequired Attachments: Identity of foreign collaborator, GPS source location, local community consultation proof.",
+      "guidance": "Indian startups that take overseas funding (e.g. US/Singapore VC funds) become Section 3 entities under Companies Act definitions and MUST file Form I before purchasing or extracting Indian herbs.",
+      "doctrines": [
+        "nba_form_1",
+        "foreign_access",
+        "section_3_entity",
+        "commercial_utilization"
+      ],
+      "official_link": "http://nbaindia.org/content/16/14/1/forms.html"
+    },
+    {
+      "id": "nba_form_2_transfer_results",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "NBA Form II: Application for Seeking Prior Approval for Transferring Results of Biological Research",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA)",
+      "title": "NBA Form II: Application for Seeking Prior Approval for Transferring Results of Biological Research",
+      "text": "Form II [See Rule 17 of Biological Diversity Rules, 2004]:\nApplication form for seeking prior approval of the National Biodiversity Authority for transferring the results of any research relating to biological resources occurring in or obtained from India.\nGoverned by Section 4 of Biological Diversity Act.\nApplication Fee: ₹5,000.\nExemptions: Collaborative research projects sponsored by Central Government (under Section 5) and purely academic publication in peer-reviewed scientific journals.",
+      "guidance": "Transferring clinical trial data, biological extracts, or phytochemical profiling results to an overseas sponsor or parent company without Form II approval triggers criminal penalties under Section 55.",
+      "doctrines": [
+        "nba_form_2",
+        "transfer_of_research",
+        "section_4_bda",
+        "academic_exemption"
+      ],
+      "official_link": "http://nbaindia.org/content/16/14/1/forms.html"
+    },
+    {
+      "id": "nba_form_3_ipr",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "NBA Form III: Application for Seeking Prior Approval for Applying for Intellectual Property Right",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA)",
+      "title": "NBA Form III: Application for Seeking Prior Approval for Applying for Intellectual Property Right",
+      "text": "Form III [See Rule 18 of Biological Diversity Rules, 2004 read with 2024 Amendments]:\nApplication for seeking prior approval of National Biodiversity Authority for applying for Intellectual Property Right (Patent) in or outside India based on any research or information on biological resources obtained from India.\nStatutory Mandate: Section 6(1) of Biological Diversity Act.\nApplication Fee: ₹500 for Indian individuals / startups; ₹10,000 for large corporates / Section 3 entities.\nApproval Condition: Mandatory execution of Benefit Sharing Agreement with NBA before patent grant.",
+      "guidance": "Must be filed immediately upon submitting patent application. The Indian Patent Office (CGPDTM) will hold the patent grant in abeyance under Guiding Principle 6 until the NBA Form III approval letter is presented.",
+      "doctrines": [
+        "nba_form_3",
+        "ipr_clearance",
+        "patent_grant_condition",
+        "benefit_sharing_agreement"
+      ],
+      "official_link": "http://nbaindia.org/content/16/14/1/forms.html"
+    },
+    {
+      "id": "nba_form_4_third_party_transfer",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "NBA Form IV: Application for Seeking Prior Approval for Third-Party Transfer of Biological Resources",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA)",
+      "title": "NBA Form IV: Application for Seeking Prior Approval for Third-Party Transfer of Biological Resources",
+      "text": "Form IV [See Rule 19 of Biological Diversity Rules, 2004]:\nApplication for third party transfer of biological resources or associated knowledge accessed under Form I.\nStatutory Mandate: Section 20 of Biological Diversity Act.\nApplication Fee: ₹10,000.\nRequired details: Justification for transfer, royalty sharing agreement, recipient company details.",
+      "guidance": "Sub-licensing patent rights or outsourcing herbal extract manufacturing to third-party contract manufacturers (CMOs) requires prior Form IV approval.",
+      "doctrines": [
+        "nba_form_4",
+        "third_party_transfer",
+        "contract_manufacturing",
+        "section_20_bda"
+      ],
+      "official_link": "http://nbaindia.org/content/16/14/1/forms.html"
+    },
+    {
+      "id": "nba_abs_guidelines_slabs",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "Access and Benefit Sharing (ABS) Fee Calculation Slabs (2014 & 2024)",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "National Biodiversity Authority (NBA)",
+      "title": "Access and Benefit Sharing (ABS) Fee Calculation Slabs (2014 & 2024)",
+      "text": "Guidelines on Access to Biological Resources and Associated Knowledge and Benefits Sharing Regulations:\n1. Mode A (Purchase Price Option): Commercial user pays between 3.0% to 5.0% of the purchase price of the biological resource accessed from local communities / State Biodiversity Boards.\n2. Mode B (Annual Ex-Factory Gross Sales Option for Finished Products):\n - Slabs on annual gross ex-factory sale of product:\n * Up to ₹1,00,00,000 (1 Crore): 0.1%\n * ₹1,00,00,001 to ₹3,00,00,000 (1-3 Crores): 0.2%\n * Above ₹3,00,00,000 (>3 Crores): 0.5%\n3. Commercialization of IPR (Patents):\n - When applicant commercializes the patent directly: 0.2% to 1.0% of ex-factory sale.\n - When applicant licenses/transfers IPR to third party: 2.0% to 5.0% of upfront fee + 2.0% to 5.0% of annual royalty.",
+      "guidance": "Engine uses these exact statutory formulas to calculate prospective ABS liability for Ayurvedic startup dossiers.",
+      "doctrines": [
+        "abs_calculation",
+        "benefit_sharing_slabs",
+        "ex_factory_slabs",
+        "ipr_licensing_royalties"
+      ],
+      "official_link": "http://nbaindia.org/content/17/14/1/abs.html"
+    },
+    {
+      "id": "nba_section_40_ntc_commodities",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "Section 40 Normally Traded Commodities (NTC) Notification & 421 Species Exemption",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Ministry of Environment, Forest and Climate Change (MoEFCC) / NBA",
+      "title": "Section 40 Normally Traded Commodities (NTC) Notification & 421 Species Exemption",
+      "text": "Section 40 Exemption: The Central Government notifies 421 biological species as Normally Traded Commodities (NTC). Biological resources traded as agricultural commodities (e.g. Piper nigrum [black pepper], Zingiber officinale [ginger], Cuminum cyminum [cumin], Trigonella foenum-graecum [fenugreek]) are exempt from the provisions of the Biological Diversity Act.\nCRITICAL PROVISO: The exemption applies ONLY when accessed for normal agricultural trade. If the same botanical is used as raw material for patented pharmaceutical research, novel extraction, or proprietary drug manufacturing, the Section 40 exemption is NULLIFIED, and NBA/SBB compliance is mandatory.",
+      "guidance": "Essential legal nuance: An Ayurvedic company cannot claim Section 40 exemption for black pepper or turmeric if it files a patent claiming isolated piperine or curcumin nanoparticles for therapeutic applications.",
+      "doctrines": [
+        "section_40_ntc",
+        "normally_traded_commodities",
+        "agricultural_vs_patent_exemption"
+      ],
+      "official_link": "http://nbaindia.org/content/19/14/1/ntc.html"
+    },
+    {
+      "id": "tkdl_landmark_case_turmeric",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "Landmark Defense 1: Revocation of US Patent 5,401,504 (Turmeric / Curcuma longa)",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "CSIR-TKDL / USPTO",
+      "title": "Landmark Defense 1: Revocation of US Patent 5,401,504 (Turmeric / Curcuma longa)",
+      "text": "Case Analysis: US Patent No. 5,401,504 titled 'Use of Turmeric in Wound Healing' granted to University of Mississippi Medical Center in March 1995.\nChallenged By: CSIR (Council of Scientific and Industrial Research), India.\nPrior Art Cited: CSIR produced 32 references from classical Ayurvedic texts including Charaka Samhita, Sushruta Samhita, and Bhavaprakasha, proving that oral and topical application of Curcuma longa powder for wound healing, ulcers, and inflammation has been documented and practiced in India for over 2,000 years.\nOutcome: USPTO revoked all 6 claims of the patent in 1997 on grounds of anticipation and lack of novelty under 35 U.S.C. 102.",
+      "guidance": "Foundational legal precedent: Any patent claim seeking to monopolize the therapeutic use of raw turmeric or basic curcumin extracts for wound healing or inflammation will be instantly struck down under Section 3(p).",
+      "doctrines": [
+        "turmeric_case",
+        "tkdl_revocation",
+        "curcuma_longa",
+        "section_3p_anticipation"
+      ],
+      "official_link": "https://www.csir.res.in/tkdl"
+    },
+    {
+      "id": "tkdl_landmark_case_neem",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "Landmark Defense 2: Revocation of European Patent EP 0436257 (Neem / Azadirachta indica)",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "CSIR-TKDL / EPO",
+      "title": "Landmark Defense 2: Revocation of European Patent EP 0436257 (Neem / Azadirachta indica)",
+      "text": "Case Analysis: European Patent No. EP 0436257 titled 'Method for controlling fungi on plants by the aid of a hydrophobic extracted neem oil' granted to W.R. Grace & Co. and US Department of Agriculture in 1995.\nChallenged By: Research Foundation for Science, Technology and Ecology (RFSTE) & CSIR.\nPrior Art Cited: Classical Indian Ayurvedic and agricultural literature documenting the insecticidal, anti-fungal, and preservative properties of neem bark and seed extract emulsions for millennia.\nOutcome: European Patent Office (EPO) Opposition Division and Technical Board of Appeal completely revoked the patent in May 2000 for lack of novelty and lack of inventive step under Article 54 and 56 EPC.",
+      "guidance": "Precedent establishes that extracting neem oil with conventional hydrophobic solvents is an obvious adaptation of traditional knowledge and unpatentable without structural modification.",
+      "doctrines": [
+        "neem_case",
+        "azadirachta_indica",
+        "epo_revocation",
+        "traditional_fungicide"
+      ],
+      "official_link": "https://www.csir.res.in/tkdl"
+    },
+    {
+      "id": "tkdl_first_schedule_classical_texts",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "The 54 Authoritative Classical Books of the First Schedule (Drugs & Cosmetics Act, 1940)",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "Ministry of Ayush / DCA 1940 First Schedule",
+      "title": "The 54 Authoritative Classical Books of the First Schedule (Drugs & Cosmetics Act, 1940)",
+      "text": "Statutory Canon of 54 Authoritative Ayurvedic Texts:\n1. Charaka Samhita (Maharishi Agnivesha / Charaka / Dridhabala)\n2. Sushruta Samhita (Maharishi Sushruta / Nagarjuna)\n3. Ashtanga Hridaya (Acharya Vagbhata)\n4. Ashtanga Samgraha (Vagbhata)\n5. Sharangadhara Samhita (Sharangadhara Acharya - Nadipariksha & pharmaceutical processes)\n6. Bhavaprakasha (Bhavamishra - Dravyaguna materia medica)\n7. Bhaishajya Ratnavali (Govinda Dasa Sen)\n8. Sahasrayogam (Classical Kerala Ayurvedic Formulary)\n9. Madhava Nidana (Rogavinishchaya by Madhavakara)\n10. Rasaratna Samuchchaya (Rasa Shastra / Iatrochemistry)\n11. Chakradatta (Chakrapani Datta)\n12. Ayurvedic Formulary of India (AFI, Part I, II, III)\n13. Ayurvedic Pharmacopoeia of India (API, Parts I & II)... and other statutory texts.",
+      "guidance": "Any medicine prepared strictly in accordance with these 54 books is legally classified as a 'Classical Ayurvedic Drug' under DCA Section 3(a) and enjoys Rule 158B(a) clinical trial exemptions, but cannot be claimed as an inventive monopoly under Patent Law.",
+      "doctrines": [
+        "first_schedule_texts",
+        "charaka_samhita",
+        "sushruta_samhita",
+        "sahasrayogam",
+        "rule_158b_a"
+      ],
+      "official_link": "https://ayush.gov.in"
+    },
+    {
+      "id": "tkdl_classical_formulations_prior_art_matrix",
+      "regime": "national",
+      "act": "Indian Statutory Law",
+      "section": "TKDL Classical Formulation Prior-Art Taxonomy & Botanical Mapping",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "CSIR-TKDL / Ayurvedic Pharmacopoeia of India",
+      "title": "TKDL Classical Formulation Prior-Art Taxonomy & Botanical Mapping",
+      "text": "Curated High-Risk Patent Bar Formulations:\n1. Triphala Churna: Equal ratio combination of Emblica officinalis (Amalaki), Terminalia chebula (Haritaki), and Terminalia bellirica (Bibhitaki). Primary classical texts: Charaka Samhita, Chikitsasthana 1:3; Sharangadhara Samhita, Madhyamakhanda 6:1-3. Therapeutic use: Rasayana, digestive stimulant, ocular tonic, anti-hyperlipidemic.\n2. Chyawanprash Avaleha: Complex formulation of 48 herbs centered around Emblica officinalis (fresh Amalaki pulp), Ghee, Sesame oil, and honey. Classical text: Charaka Samhita, Chikitsasthana 1:1:62-74. Indication: Immunomodulator, pulmonary restorative.\n3. Trikatu Churna: Piper nigrum (Maricha), Piper longum (Pippali), and Zingiber officinale (Shunti). Classical text: Sharangadhara Samhita. Indication: Bioenhancer, digestive fire stimulant.\n4. Chandraprabha Vati: Guggulu, Shilajit, Asphaltum, with 32 herbal adjuvants. Classical text: Bhaishajya Ratnavali.\n5. Yograj Guggulu: Commiphora mukul resin formulation. Classical text: Bhaishajya Ratnavali, Vatavyadhi Chikitsa.",
+      "guidance": "Direct compositional claims on these formulations trigger immediate Section 3(p) rejections. To obtain patent protection, the applicant must isolate specific bioactive phytoconstituents (e.g. chebulic acid, piperine, withaferin A) or create a patented synthetic derivative / targeted nanoparticle formulation.",
+      "doctrines": [
+        "triphala_prior_art",
+        "chyawanprash_prior_art",
+        "trikatu_synergy",
+        "botanical_latin_mapping"
+      ],
+      "official_link": "https://www.csir.res.in/tkdl"
+    },
+    {
+      "id": "wipo_gratk_treaty_2024",
+      "regime": "international",
+      "act": "Indian Statutory Law",
+      "section": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (GRATK, May 2024)",
+      "amendment_year": 2024,
+      "in_force": true,
+      "authority_body": "World Intellectual Property Organization (WIPO)",
+      "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (GRATK, May 2024)",
+      "text": "Adopted at Geneva on May 24, 2024:\nArticle 3 (Disclosure Requirement):\n1. Where the claimed invention in a patent application is materially or directly based on genetic resources, each Contracting Party shall require applicants to disclose the country of origin of the genetic resources.\n2. Where the claimed invention in a patent application is materially or directly based on traditional knowledge associated with genetic resources, each Contracting Party shall require applicants to disclose the Indigenous People or local community who provided the traditional knowledge.\n3. Article 6 establishes an Information System on Genetic Resources and Associated Traditional Knowledge.",
+      "guidance": "Historic milestone: Any foreign patent filed in the US, Europe, Japan, or PCT contracting states claiming Indian herbs is now internationally required to disclose India as the origin and disclose associated traditional knowledge.",
+      "doctrines": [
+        "wipo_gratk_2024",
+        "international_origin_disclosure",
+        "tkdl_international_linkage"
+      ],
+      "official_link": "https://www.wipo.int/meetings/en/2024/gratk-treaty.html"
+    },
+    {
+      "id": "dca_phytopharmaceuticals_2015",
+      "regime": "national",
+      "act": "Drugs & Cosmetics Rules, 1945 (G.S.R. 918(E))",
+      "section": "Schedule Y & Chapter IV-A",
+      "amendment_year": 2015,
+      "in_force": true,
+      "authority_body": "Central Drugs Standard Control Organization (CDSCO)",
+      "title": "Phytopharmaceutical Drug Regulatory Pathway",
+      "text": "Defines a phytopharmaceutical drug as a purified and standardized fraction with defined minimum four bioactive or phytochemical markers of an extract of a medicinal plant or its part, for internal or external use of human beings or animals.\nRequirements include complete Investigational New Drug (IND) dossier, published scientific literature, animal toxicity profiling, and Phase I-III clinical trial approvals under CDSCO.",
+      "guidance": "Unlocks the highest level of patentability in India and internationally. Overcomes Section 3(p) and Section 3(d) because the applicant is patenting a purified, characterized fraction with reproducible clinical biomarker data.",
+      "doctrines": [
+        "phytopharmaceutical",
+        "standardized_fraction",
+        "cdsco_ind",
+        "high_patentability"
+      ],
+      "official_link": "https://cdsco.gov.in"
+    },
+    {
+      "id": "fssai_ayurveda_aahara_2022",
+      "regime": "national",
+      "act": "FSSAI (Ayurveda Aahara) Regulations, 2022",
+      "section": "Regulation 3 & Regulation 5",
+      "amendment_year": 2022,
+      "in_force": true,
+      "authority_body": "Food Safety and Standards Authority of India (FSSAI)",
+      "title": "Ayurveda Aahara Labeling & Prohibition of Disease Cure Claims",
+      "text": "Covers food prepared in accordance with recipes or formulations described in authoritative Ayurvedic books specified in the First Schedule of the Drugs and Cosmetics Act, 1940.\nMandatory Requirements: Must display the official 'Ayurveda Aahara' logo on primary packaging.\nProhibition: Strictly prohibited from making medicinal claims or claiming to cure, prevent, or treat any human disease, disorder, or condition.",
+      "guidance": "Ideal for wellness startups, herbal infusions, and food supplements seeking immediate national commercialization without undergoing clinical drug trials or obtaining AYUSH Form 25D manufacturing drug licenses.",
+      "doctrines": [
+        "ayurveda_aahara",
+        "fssai_regulations",
+        "no_cure_claims",
+        "herbal_food_supplements"
+      ],
+      "official_link": "https://www.fssai.gov.in"
+    },
+    {
+      "id": "nagoya_protocol_abs",
+      "regime": "international",
+      "act": "Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits",
+      "section": "Article 5 & Article 15",
+      "amendment_year": 2014,
+      "in_force": true,
+      "authority_body": "Convention on Biological Diversity (CBD)",
+      "title": "Prior Informed Consent (PIC) & Mutually Agreed Terms (MAT)",
+      "text": "Signatories to the Nagoya Protocol must ensure that genetic resources utilized within their jurisdiction have been accessed in accordance with Prior Informed Consent (PIC) and that Mutually Agreed Terms (MAT) have been established as required by the domestic ABS legislation of the provider party (e.g., India's NBA).\nArticle 15 mandates compliance verification at patent offices, research institutes, and commercial checkpoints.",
+      "guidance": "Foreign patent offices and customs authorities can block export distribution of products derived from Indian herbal bio-resources if the applicant cannot present an internationally recognized Certificate of Compliance (IRCC) from India's National Biodiversity Authority.",
+      "doctrines": [
+        "nagoya_protocol",
+        "prior_informed_consent",
+        "mutually_agreed_terms",
+        "international_abs"
+      ],
+      "official_link": "https://www.cbd.int/abs"
+    },
+    {
+      "id": "us_fda_botanical_guidance",
+      "regime": "international",
+      "act": "US FDA Guidance for Industry: Botanical Drug Development",
+      "section": "Section IV: Chemistry, Manufacturing & Controls (CMC)",
+      "amendment_year": 2016,
+      "in_force": true,
+      "authority_body": "United States Food and Drug Administration (US FDA)",
+      "title": "Batch Fingerprinting & Traditional Human Experience Reliance",
+      "text": "Because botanical drugs consist of complex natural mixtures rather than single synthetic chemical entities, the US FDA allows applicants to rely on documented prior human traditional use in countries of origin (such as India) to support initial Phase 1/Phase 2 trial safety waivers.\nHowever, strict spectroscopic fingerprinting (HPLC, LC-MS, NMR) is required to guarantee batch-to-batch consistency from raw agricultural harvest to finished pharmaceutical dosage form.",
+      "guidance": "Crucial export guidance for Indian AYUSH companies targeting New Drug Applications (NDA) in the US market. Traditional use in Charaka Samhita accelerates IND acceptance, but rigorous analytical standardization is required.",
+      "doctrines": [
+        "us_fda_botanical",
+        "ind_approval",
+        "chemical_fingerprinting",
+        "export_compliance"
+      ],
+      "official_link": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry"
+    }
+  ]
+}

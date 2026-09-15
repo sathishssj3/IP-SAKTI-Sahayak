@@ -1,0 +1,19 @@
+{
+  "id": "bda_2002_amendment_2023_sec6",
+  "act": "The Biological Diversity Act, 2002 (as amended by Act No. 10 of 2023)",
+  "act_number": "Act No. 18 of 2003 as amended by Act No. 10 of 2023",
+  "section": "Section 6",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/2037",
+  "authority": "National Biodiversity Authority (NBA)",
+  "amendment_year": 2023,
+  "in_force": true,
+  "title": "Application for intellectual property rights not to be made without approval of National Biodiversity Authority",
+  "raw_text": "(1) No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining the previous approval of the National Biodiversity Authority before grant of such intellectual property right:\nProvided that in case of any person applying for a patent, subsequent permission of the National Biodiversity Authority may be obtained after the filing of the application for patent but before the grant of the patent by the patent authority.",
+  "guidance": "Crucial statutory timeline: Applicants can file their Indian patent application first (to establish priority date), but MUST submit NBA Form III and obtain formal NBA approval BEFORE the patent office grants and seals the patent.",
+  "doctrines": [
+    "nba_form_3",
+    "ipr_approval",
+    "patent_grant_prerequisite",
+    "section_6_bda"
+  ]
+}

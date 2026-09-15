@@ -1,0 +1,15 @@
+{
+  "id": "nba_form_1_access",
+  "category": "statutory_form",
+  "authority": "National Biodiversity Authority (NBA)",
+  "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+  "title": "NBA Form I: Application for Access to Biological Resources and Associated Traditional Knowledge",
+  "raw_text": "Form I [See Rule 14 of Biological Diversity Rules, 2004]:\nApplication form for access to biological resources occurring in India and associated knowledge for the purpose of research or commercial utilization or bio-survey and bio-utilization.\nMandatory for all entities covered under Section 3(2) of the Act (non-citizens, NRIs, foreign companies, or Indian companies with any foreign shareholding/control).\nApplication Fee: ₹10,000.\nRequired Attachments: Identity of foreign collaborator, GPS source location, local community consultation proof.",
+  "guidance": "Indian startups that take overseas funding (e.g. US/Singapore VC funds) become Section 3 entities under Companies Act definitions and MUST file Form I before purchasing or extracting Indian herbs.",
+  "doctrines": [
+    "nba_form_1",
+    "foreign_access",
+    "section_3_entity",
+    "commercial_utilization"
+  ]
+}

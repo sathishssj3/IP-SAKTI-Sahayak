@@ -1,0 +1,14 @@
+{
+  "id": "gi_registry_botanicals",
+  "category": "geographical_indications",
+  "source": "Geographical Indications Registry, Intellectual Property India",
+  "source_url": "https://ipindia.gov.in/gi-registered.htm",
+  "title": "Registered Indian Botanical and Ayurvedic Geographical Indications",
+  "raw_text": "Official Registered Botanical GIs of India:\n1. Kashmir Saffron (GI Application No. 635) — Crocus sativus, harvested in Pampore, J&K\n2. Erode Manjal / Turmeric (GI Application No. 444) — High curcuminoid variety from Tamil Nadu\n3. Malabar Pepper (GI Application No. 49) — Piper nigrum from Kerala / Western Ghats\n4. Navara Rice (GI Application No. 34) — Medicinal rice used in Ayurvedic Panchakarma Kizhithirumu\n5. Kangra Tea (GI Application No. 40) — Camellia sinensis from Himachal Pradesh\n6. Darjeeling Tea (GI Application No. 1 & 2) — Protected botanical GI\n7. Alleppey Green Cardamom (GI Application No. 50) — Elettaria cardamomum.",
+  "guidance": "Trademark applications for Ayurvedic products incorporating geographical names corresponding to these GIs will be refused under Section 9(1)(b) of the Trade Marks Act unless the applicant is a registered GI authorized user.",
+  "doctrines": [
+    "registered_gis",
+    "botanical_gi_protection",
+    "ayurvedic_herbal_gis"
+  ]
+}

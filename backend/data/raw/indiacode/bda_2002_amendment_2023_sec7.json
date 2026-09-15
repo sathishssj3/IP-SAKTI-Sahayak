@@ -1,0 +1,19 @@
+{
+  "id": "bda_2002_amendment_2023_sec7",
+  "act": "The Biological Diversity Act, 2002 (as amended by Act No. 10 of 2023)",
+  "act_number": "Act No. 18 of 2003 as amended by Act No. 10 of 2023",
+  "section": "Section 7 (Proviso)",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/2037",
+  "authority": "National Biodiversity Authority (NBA) & State Biodiversity Boards (SBB)",
+  "amendment_year": 2023,
+  "in_force": true,
+  "title": "Prior intimation to State Biodiversity Board for accessing biological resources for commercial utilization",
+  "raw_text": "No person, who is a citizen of India or a body corporate, association or organisation which is registered in India, shall access any biological resource for commercial utilisation, without giving prior intimation to the State Biodiversity Board concerned:\nProvided that the provisions of this section shall not apply to the local people and communities of the area, including growers and cultivators of biological resources, and to registered AYUSH practitioners: Provided further that nothing contained in this section shall apply to codified traditional knowledge or cultivated medicinal plants.",
+  "guidance": "2023 Landmark Exemption: Registered AYUSH practitioners, vaidyas, and cultivators of medicinal herbs are statutorily exempt from prior intimation to SBB. However, commercial pharmaceutical manufacturers, extract exporters, and corporate entities commercializing formulation patents remain strictly liable for ABS payment.",
+  "doctrines": [
+    "ayush_practitioner_exemption",
+    "sbb_intimation",
+    "cultivated_medicinal_plants",
+    "section_7_bda"
+  ]
+}

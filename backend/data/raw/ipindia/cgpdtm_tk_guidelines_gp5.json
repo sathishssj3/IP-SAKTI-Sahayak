@@ -1,0 +1,14 @@
+{
+  "id": "cgpdtm_tk_guidelines_gp5",
+  "category": "examination_guideline",
+  "source": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+  "source_url": "https://ipindia.gov.in/guidelines-patents.htm",
+  "title": "Guiding Principle 5 (GP-5): Mandatory Disclosure of Source and Geographical Origin",
+  "raw_text": "Guiding Principle 5: The examiner shall scrutinize the specification to ensure that the source and geographical origin of all biological materials used in the invention are disclosed in compliance with Section 10(4)(ii)(D). If the applicant has collected biological materials from outside India, the specific country and authority permitting access must be cited.",
+  "guidance": "Omission of GPS coordinates or specific district/state of collection in India creates an insurmountable Section 10 objection in First Examination Reports (FER).",
+  "doctrines": [
+    "gp5_origin_disclosure",
+    "section_10_compliance",
+    "cgpdtm_guidelines"
+  ]
+}

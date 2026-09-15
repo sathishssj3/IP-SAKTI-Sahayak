@@ -1,0 +1,19 @@
+{
+  "id": "patents_act_1970_sec3e",
+  "act": "The Patents Act, 1970",
+  "act_number": "Act No. 39 of 1970",
+  "section": "Section 3(e)",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1392",
+  "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce and Industry",
+  "amendment_year": 2002,
+  "in_force": true,
+  "title": "Inventions not patentable: Mere Admixture Bar",
+  "raw_text": "What are not inventions: The following are not inventions within the meaning of this Act:—\n(e) a substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance.",
+  "guidance": "For polyherbal Ayurvedic formulations (combining two or more known botanicals), applicants must provide comparative synergistic efficacy data (e.g., Combination Index CI < 1.0 using Chou-Talalay method or statistically significant enhanced bioactivity over individual herbal extracts). In the absence of synergy data, patent claims will be rejected under Section 3(e).",
+  "doctrines": [
+    "mere_admixture",
+    "synergy",
+    "polyherbal_combination",
+    "section_3e"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nba_form_4_third_party_transfer",
+  "category": "statutory_form",
+  "authority": "National Biodiversity Authority (NBA)",
+  "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+  "title": "NBA Form IV: Application for Seeking Prior Approval for Third-Party Transfer of Biological Resources",
+  "raw_text": "Form IV [See Rule 19 of Biological Diversity Rules, 2004]:\nApplication for third party transfer of biological resources or associated knowledge accessed under Form I.\nStatutory Mandate: Section 20 of Biological Diversity Act.\nApplication Fee: ₹10,000.\nRequired details: Justification for transfer, royalty sharing agreement, recipient company details.",
+  "guidance": "Sub-licensing patent rights or outsourcing herbal extract manufacturing to third-party contract manufacturers (CMOs) requires prior Form IV approval.",
+  "doctrines": [
+    "nba_form_4",
+    "third_party_transfer",
+    "contract_manufacturing",
+    "section_20_bda"
+  ]
+}

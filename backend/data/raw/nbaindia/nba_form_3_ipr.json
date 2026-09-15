@@ -1,0 +1,15 @@
+{
+  "id": "nba_form_3_ipr",
+  "category": "statutory_form",
+  "authority": "National Biodiversity Authority (NBA)",
+  "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+  "title": "NBA Form III: Application for Seeking Prior Approval for Applying for Intellectual Property Right",
+  "raw_text": "Form III [See Rule 18 of Biological Diversity Rules, 2004 read with 2024 Amendments]:\nApplication for seeking prior approval of National Biodiversity Authority for applying for Intellectual Property Right (Patent) in or outside India based on any research or information on biological resources obtained from India.\nStatutory Mandate: Section 6(1) of Biological Diversity Act.\nApplication Fee: ₹500 for Indian individuals / startups; ₹10,000 for large corporates / Section 3 entities.\nApproval Condition: Mandatory execution of Benefit Sharing Agreement with NBA before patent grant.",
+  "guidance": "Must be filed immediately upon submitting patent application. The Indian Patent Office (CGPDTM) will hold the patent grant in abeyance under Guiding Principle 6 until the NBA Form III approval letter is presented.",
+  "doctrines": [
+    "nba_form_3",
+    "ipr_clearance",
+    "patent_grant_condition",
+    "benefit_sharing_agreement"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tkdl_classical_formulations_prior_art_matrix",
+  "category": "prior_art_ontology",
+  "authority": "CSIR-TKDL / Ayurvedic Pharmacopoeia of India",
+  "source_url": "https://www.csir.res.in/tkdl",
+  "title": "TKDL Classical Formulation Prior-Art Taxonomy & Botanical Mapping",
+  "raw_text": "Curated High-Risk Patent Bar Formulations:\n1. Triphala Churna: Equal ratio combination of Emblica officinalis (Amalaki), Terminalia chebula (Haritaki), and Terminalia bellirica (Bibhitaki). Primary classical texts: Charaka Samhita, Chikitsasthana 1:3; Sharangadhara Samhita, Madhyamakhanda 6:1-3. Therapeutic use: Rasayana, digestive stimulant, ocular tonic, anti-hyperlipidemic.\n2. Chyawanprash Avaleha: Complex formulation of 48 herbs centered around Emblica officinalis (fresh Amalaki pulp), Ghee, Sesame oil, and honey. Classical text: Charaka Samhita, Chikitsasthana 1:1:62-74. Indication: Immunomodulator, pulmonary restorative.\n3. Trikatu Churna: Piper nigrum (Maricha), Piper longum (Pippali), and Zingiber officinale (Shunti). Classical text: Sharangadhara Samhita. Indication: Bioenhancer, digestive fire stimulant.\n4. Chandraprabha Vati: Guggulu, Shilajit, Asphaltum, with 32 herbal adjuvants. Classical text: Bhaishajya Ratnavali.\n5. Yograj Guggulu: Commiphora mukul resin formulation. Classical text: Bhaishajya Ratnavali, Vatavyadhi Chikitsa.",
+  "guidance": "Direct compositional claims on these formulations trigger immediate Section 3(p) rejections. To obtain patent protection, the applicant must isolate specific bioactive phytoconstituents (e.g. chebulic acid, piperine, withaferin A) or create a patented synthetic derivative / targeted nanoparticle formulation.",
+  "doctrines": [
+    "triphala_prior_art",
+    "chyawanprash_prior_art",
+    "trikatu_synergy",
+    "botanical_latin_mapping"
+  ]
+}

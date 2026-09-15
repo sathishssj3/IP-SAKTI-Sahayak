@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tkdl_landmark_case_turmeric",
+    "category": "defensive_prior_art_case",
+    "authority": "CSIR-TKDL / USPTO",
+    "source_url": "https://www.csir.res.in/tkdl",
+    "title": "Landmark Defense 1: Revocation of US Patent 5,401,504 (Turmeric / Curcuma longa)",
+    "raw_text": "Case Analysis: US Patent No. 5,401,504 titled 'Use of Turmeric in Wound Healing' granted to University of Mississippi Medical Center in March 1995.\nChallenged By: CSIR (Council of Scientific and Industrial Research), India.\nPrior Art Cited: CSIR produced 32 references from classical Ayurvedic texts including Charaka Samhita, Sushruta Samhita, and Bhavaprakasha, proving that oral and topical application of Curcuma longa powder for wound healing, ulcers, and inflammation has been documented and practiced in India for over 2,000 years.\nOutcome: USPTO revoked all 6 claims of the patent in 1997 on grounds of anticipation and lack of novelty under 35 U.S.C. 102.",
+    "guidance": "Foundational legal precedent: Any patent claim seeking to monopolize the therapeutic use of raw turmeric or basic curcumin extracts for wound healing or inflammation will be instantly struck down under Section 3(p).",
+    "doctrines": [
+      "turmeric_case",
+      "tkdl_revocation",
+      "curcuma_longa",
+      "section_3p_anticipation"
+    ]
+  },
+  {
+    "id": "tkdl_landmark_case_neem",
+    "category": "defensive_prior_art_case",
+    "authority": "CSIR-TKDL / EPO",
+    "source_url": "https://www.csir.res.in/tkdl",
+    "title": "Landmark Defense 2: Revocation of European Patent EP 0436257 (Neem / Azadirachta indica)",
+    "raw_text": "Case Analysis: European Patent No. EP 0436257 titled 'Method for controlling fungi on plants by the aid of a hydrophobic extracted neem oil' granted to W.R. Grace & Co. and US Department of Agriculture in 1995.\nChallenged By: Research Foundation for Science, Technology and Ecology (RFSTE) & CSIR.\nPrior Art Cited: Classical Indian Ayurvedic and agricultural literature documenting the insecticidal, anti-fungal, and preservative properties of neem bark and seed extract emulsions for millennia.\nOutcome: European Patent Office (EPO) Opposition Division and Technical Board of Appeal completely revoked the patent in May 2000 for lack of novelty and lack of inventive step under Article 54 and 56 EPC.",
+    "guidance": "Precedent establishes that extracting neem oil with conventional hydrophobic solvents is an obvious adaptation of traditional knowledge and unpatentable without structural modification.",
+    "doctrines": [
+      "neem_case",
+      "azadirachta_indica",
+      "epo_revocation",
+      "traditional_fungicide"
+    ]
+  },
+  {
+    "id": "tkdl_first_schedule_classical_texts",
+    "category": "ayurvedic_canon",
+    "authority": "Ministry of Ayush / DCA 1940 First Schedule",
+    "source_url": "https://ayush.gov.in",
+    "title": "The 54 Authoritative Classical Books of the First Schedule (Drugs & Cosmetics Act, 1940)",
+    "raw_text": "Statutory Canon of 54 Authoritative Ayurvedic Texts:\n1. Charaka Samhita (Maharishi Agnivesha / Charaka / Dridhabala)\n2. Sushruta Samhita (Maharishi Sushruta / Nagarjuna)\n3. Ashtanga Hridaya (Acharya Vagbhata)\n4. Ashtanga Samgraha (Vagbhata)\n5. Sharangadhara Samhita (Sharangadhara Acharya - Nadipariksha & pharmaceutical processes)\n6. Bhavaprakasha (Bhavamishra - Dravyaguna materia medica)\n7. Bhaishajya Ratnavali (Govinda Dasa Sen)\n8. Sahasrayogam (Classical Kerala Ayurvedic Formulary)\n9. Madhava Nidana (Rogavinishchaya by Madhavakara)\n10. Rasaratna Samuchchaya (Rasa Shastra / Iatrochemistry)\n11. Chakradatta (Chakrapani Datta)\n12. Ayurvedic Formulary of India (AFI, Part I, II, III)\n13. Ayurvedic Pharmacopoeia of India (API, Parts I & II)... and other statutory texts.",
+    "guidance": "Any medicine prepared strictly in accordance with these 54 books is legally classified as a 'Classical Ayurvedic Drug' under DCA Section 3(a) and enjoys Rule 158B(a) clinical trial exemptions, but cannot be claimed as an inventive monopoly under Patent Law.",
+    "doctrines": [
+      "first_schedule_texts",
+      "charaka_samhita",
+      "sushruta_samhita",
+      "sahasrayogam",
+      "rule_158b_a"
+    ]
+  },
+  {
+    "id": "tkdl_classical_formulations_prior_art_matrix",
+    "category": "prior_art_ontology",
+    "authority": "CSIR-TKDL / Ayurvedic Pharmacopoeia of India",
+    "source_url": "https://www.csir.res.in/tkdl",
+    "title": "TKDL Classical Formulation Prior-Art Taxonomy & Botanical Mapping",
+    "raw_text": "Curated High-Risk Patent Bar Formulations:\n1. Triphala Churna: Equal ratio combination of Emblica officinalis (Amalaki), Terminalia chebula (Haritaki), and Terminalia bellirica (Bibhitaki). Primary classical texts: Charaka Samhita, Chikitsasthana 1:3; Sharangadhara Samhita, Madhyamakhanda 6:1-3. Therapeutic use: Rasayana, digestive stimulant, ocular tonic, anti-hyperlipidemic.\n2. Chyawanprash Avaleha: Complex formulation of 48 herbs centered around Emblica officinalis (fresh Amalaki pulp), Ghee, Sesame oil, and honey. Classical text: Charaka Samhita, Chikitsasthana 1:1:62-74. Indication: Immunomodulator, pulmonary restorative.\n3. Trikatu Churna: Piper nigrum (Maricha), Piper longum (Pippali), and Zingiber officinale (Shunti). Classical text: Sharangadhara Samhita. Indication: Bioenhancer, digestive fire stimulant.\n4. Chandraprabha Vati: Guggulu, Shilajit, Asphaltum, with 32 herbal adjuvants. Classical text: Bhaishajya Ratnavali.\n5. Yograj Guggulu: Commiphora mukul resin formulation. Classical text: Bhaishajya Ratnavali, Vatavyadhi Chikitsa.",
+    "guidance": "Direct compositional claims on these formulations trigger immediate Section 3(p) rejections. To obtain patent protection, the applicant must isolate specific bioactive phytoconstituents (e.g. chebulic acid, piperine, withaferin A) or create a patented synthetic derivative / targeted nanoparticle formulation.",
+    "doctrines": [
+      "triphala_prior_art",
+      "chyawanprash_prior_art",
+      "trikatu_synergy",
+      "botanical_latin_mapping"
+    ]
+  },
+  {
+    "id": "wipo_gratk_treaty_2024",
+    "category": "international_treaty",
+    "authority": "World Intellectual Property Organization (WIPO)",
+    "source_url": "https://www.wipo.int/meetings/en/2024/gratk-treaty.html",
+    "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (GRATK, May 2024)",
+    "raw_text": "Adopted at Geneva on May 24, 2024:\nArticle 3 (Disclosure Requirement):\n1. Where the claimed invention in a patent application is materially or directly based on genetic resources, each Contracting Party shall require applicants to disclose the country of origin of the genetic resources.\n2. Where the claimed invention in a patent application is materially or directly based on traditional knowledge associated with genetic resources, each Contracting Party shall require applicants to disclose the Indigenous People or local community who provided the traditional knowledge.\n3. Article 6 establishes an Information System on Genetic Resources and Associated Traditional Knowledge.",
+    "guidance": "Historic milestone: Any foreign patent filed in the US, Europe, Japan, or PCT contracting states claiming Indian herbs is now internationally required to disclose India as the origin and disclose associated traditional knowledge.",
+    "doctrines": [
+      "wipo_gratk_2024",
+      "international_origin_disclosure",
+      "tkdl_international_linkage"
+    ]
+  }
+]

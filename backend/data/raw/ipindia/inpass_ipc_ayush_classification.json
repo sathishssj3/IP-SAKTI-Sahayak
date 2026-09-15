@@ -1,0 +1,14 @@
+{
+  "id": "inpass_ipc_ayush_classification",
+  "category": "classification_taxonomy",
+  "source": "InPASS Patent Search System / WIPO IPC",
+  "source_url": "https://ipindiaonline.gov.in/patentsearch/search/index.aspx",
+  "title": "InPASS International Patent Classification (IPC) for Ayurvedic & Herbal Formulations",
+  "raw_text": "Primary IPC codes for Indian Traditional Knowledge and Ayurvedic formulations:\n- A61K 36/00: Medicinal preparations of undetermined constitution containing material from algae, lichens, fungi or plants\n- A61K 36/185: Magnoliopsida (dicotyledons)\n- A61K 36/88: Liliopsida (monocotyledons)\n- A61K 36/324: Boswellia (Sallaki / Frankincense)\n- A61K 36/9066: Curcuma longa (Haridra / Turmeric)\n- A61K 36/81: Withania somnifera (Ashwagandha)\n- A61K 125/00 - 135/00: TKDL specific traditional knowledge resource classification (TKRC) subclasses.",
+  "guidance": "Use these exact IPC classes when conducting prior art searches on InPASS, Google Patents, and Espacenet to surface conflicting prior applications.",
+  "doctrines": [
+    "inpass_search",
+    "ipc_classification",
+    "a61k_36"
+  ]
+}

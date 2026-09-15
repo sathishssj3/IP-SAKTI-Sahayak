@@ -1,0 +1,19 @@
+{
+  "id": "dca_rules_1945_rule158b",
+  "act": "The Drugs and Cosmetics Rules, 1945",
+  "act_number": "Statutory Rules under DCA 1940",
+  "section": "Rule 158B",
+  "source_url": "https://cdsco.gov.in/opencms/opencms/en/Ayush/Ayush-Rules/",
+  "authority": "State Ayush Licensing Authorities (SLA)",
+  "amendment_year": 2010,
+  "in_force": true,
+  "title": "Guidelines for Issue of License with respect to Ayurvedic, Siddha or Unani Drugs",
+  "raw_text": "Rule 158B sets down evidence required for grant of manufacturing licenses:\n(a) Classical Ayurvedic Medicines: Manufactured strictly as per First Schedule texts. No animal toxicity or clinical trial data required provided raw materials and dosage adhere to classical text.\n(b) Patent or Proprietary (P&P) Ayurvedic Medicines: Formulations containing ingredients mentioned in authoritative books but in novel combinations or dosage forms. Requires published scientific literature on safety, pilot clinical safety/efficacy studies, and acute toxicity studies.",
+  "guidance": "Form 25D manufacturing license categorization. P&P medicines can seek proprietary branding and trademark protection, but classical medicines remain in public domain.",
+  "doctrines": [
+    "rule_158b",
+    "classical_vs_pnp",
+    "form_25d",
+    "ayush_licensing"
+  ]
+}

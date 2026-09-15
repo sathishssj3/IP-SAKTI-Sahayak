@@ -1,0 +1,19 @@
+{
+  "id": "patents_rules_2024_rule12",
+  "act": "The Patents Rules, 2003 (as amended by Patents (Amendment) Rules, 2024)",
+  "act_number": "G.S.R. 212(E) dated 15 March 2024",
+  "section": "Rule 12 & Form 3",
+  "source_url": "https://ipindia.gov.in/rules-patents.htm",
+  "authority": "DPIIT / Indian Patent Office",
+  "amendment_year": 2024,
+  "in_force": true,
+  "title": "Statement and Undertaking regarding foreign applications",
+  "raw_text": "Substituted Rule 12 simplifies compliance for applicants: The applicant shall file the statement and undertaking in Form 3 within three months from the date of issuance of first examination report (FER). The Controller may also use accessible public databases to review corresponding foreign patent applications.",
+  "guidance": "March 2024 procedural reform: Removes the cumbersome requirement of updating Form 3 every 6 months. For AYUSH startups filing international PCT/Paris Convention applications, updates are consolidated to 3 months post-FER.",
+  "doctrines": [
+    "foreign_filing",
+    "form_3",
+    "patents_rules_2024",
+    "expedited_compliance"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nba_form_2_transfer_results",
+  "category": "statutory_form",
+  "authority": "National Biodiversity Authority (NBA)",
+  "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+  "title": "NBA Form II: Application for Seeking Prior Approval for Transferring Results of Biological Research",
+  "raw_text": "Form II [See Rule 17 of Biological Diversity Rules, 2004]:\nApplication form for seeking prior approval of the National Biodiversity Authority for transferring the results of any research relating to biological resources occurring in or obtained from India.\nGoverned by Section 4 of Biological Diversity Act.\nApplication Fee: ₹5,000.\nExemptions: Collaborative research projects sponsored by Central Government (under Section 5) and purely academic publication in peer-reviewed scientific journals.",
+  "guidance": "Transferring clinical trial data, biological extracts, or phytochemical profiling results to an overseas sponsor or parent company without Form II approval triggers criminal penalties under Section 55.",
+  "doctrines": [
+    "nba_form_2",
+    "transfer_of_research",
+    "section_4_bda",
+    "academic_exemption"
+  ]
+}

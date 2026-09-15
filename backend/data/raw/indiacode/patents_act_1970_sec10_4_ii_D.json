@@ -1,0 +1,18 @@
+{
+  "id": "patents_act_1970_sec10_4_ii_D",
+  "act": "The Patents Act, 1970",
+  "act_number": "Act No. 39 of 1970",
+  "section": "Section 10(4)(ii)(D)",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1392",
+  "authority": "Indian Patent Office (CGPDTM)",
+  "amendment_year": 2002,
+  "in_force": true,
+  "title": "Contents of Specifications: Disclosure of Source and Geographical Origin",
+  "raw_text": "Every complete specification shall—\n(ii) disclose the source and geographical origin of the biological material in the specification, when used in an invention.",
+  "guidance": "Mandatory disclosure: Whenever biological materials (e.g. Withania somnifera, Curcuma longa, Bacopa monnieri) are mentioned in the patent specification, the applicant MUST specify the source and state/region of collection. Failure to disclose or wrongful disclosure is a valid ground for pre-grant opposition under Section 25(1)(j) and revocation under Section 64(1)(p).",
+  "doctrines": [
+    "disclosure_of_origin",
+    "biological_material",
+    "section_10"
+  ]
+}

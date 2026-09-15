@@ -1,0 +1,19 @@
+{
+  "id": "bda_2002_amendment_2023_sec3",
+  "act": "The Biological Diversity Act, 2002 (as amended by Act No. 10 of 2023)",
+  "act_number": "Act No. 18 of 2003 as amended by Act No. 10 of 2023",
+  "section": "Section 3",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/2037",
+  "authority": "National Biodiversity Authority (NBA)",
+  "amendment_year": 2023,
+  "in_force": true,
+  "title": "Certain persons not to undertake Biodiversity related activities without approval of NBA",
+  "raw_text": "No person who is—\n(a) not a citizen of India;\n(b) a citizen of India, who is a non-resident as defined in clause (30) of section 2 of the Income-tax Act, 1961;\n(c) a body corporate, association or organization—\n    (i) not incorporated or registered in India; or\n    (ii) incorporated or registered in India under any law for the time being in force, which is a foreign-controlled company or foreign company within the meaning of the Companies Act, 2013,\nshall, without the previous approval of the National Biodiversity Authority, access biological resources occurring in India or associated knowledge thereto for research or for commercial utilization or for bio-survey and bio-utilization.",
+  "guidance": "Any Indian startup with foreign shareholding (FDI / foreign investors) is classified as a Section 3 entity and MUST obtain prior approval from NBA via Form I before accessing Indian biological resources or filing patents.",
+  "doctrines": [
+    "nba_approval",
+    "foreign_entity",
+    "form_1",
+    "section_3_bda"
+  ]
+}

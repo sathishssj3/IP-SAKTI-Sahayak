@@ -1,0 +1,91 @@
+[
+  {
+    "id": "nba_form_1_access",
+    "category": "statutory_form",
+    "authority": "National Biodiversity Authority (NBA)",
+    "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+    "title": "NBA Form I: Application for Access to Biological Resources and Associated Traditional Knowledge",
+    "raw_text": "Form I [See Rule 14 of Biological Diversity Rules, 2004]:\nApplication form for access to biological resources occurring in India and associated knowledge for the purpose of research or commercial utilization or bio-survey and bio-utilization.\nMandatory for all entities covered under Section 3(2) of the Act (non-citizens, NRIs, foreign companies, or Indian companies with any foreign shareholding/control).\nApplication Fee: ₹10,000.\nRequired Attachments: Identity of foreign collaborator, GPS source location, local community consultation proof.",
+    "guidance": "Indian startups that take overseas funding (e.g. US/Singapore VC funds) become Section 3 entities under Companies Act definitions and MUST file Form I before purchasing or extracting Indian herbs.",
+    "doctrines": [
+      "nba_form_1",
+      "foreign_access",
+      "section_3_entity",
+      "commercial_utilization"
+    ]
+  },
+  {
+    "id": "nba_form_2_transfer_results",
+    "category": "statutory_form",
+    "authority": "National Biodiversity Authority (NBA)",
+    "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+    "title": "NBA Form II: Application for Seeking Prior Approval for Transferring Results of Biological Research",
+    "raw_text": "Form II [See Rule 17 of Biological Diversity Rules, 2004]:\nApplication form for seeking prior approval of the National Biodiversity Authority for transferring the results of any research relating to biological resources occurring in or obtained from India.\nGoverned by Section 4 of Biological Diversity Act.\nApplication Fee: ₹5,000.\nExemptions: Collaborative research projects sponsored by Central Government (under Section 5) and purely academic publication in peer-reviewed scientific journals.",
+    "guidance": "Transferring clinical trial data, biological extracts, or phytochemical profiling results to an overseas sponsor or parent company without Form II approval triggers criminal penalties under Section 55.",
+    "doctrines": [
+      "nba_form_2",
+      "transfer_of_research",
+      "section_4_bda",
+      "academic_exemption"
+    ]
+  },
+  {
+    "id": "nba_form_3_ipr",
+    "category": "statutory_form",
+    "authority": "National Biodiversity Authority (NBA)",
+    "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+    "title": "NBA Form III: Application for Seeking Prior Approval for Applying for Intellectual Property Right",
+    "raw_text": "Form III [See Rule 18 of Biological Diversity Rules, 2004 read with 2024 Amendments]:\nApplication for seeking prior approval of National Biodiversity Authority for applying for Intellectual Property Right (Patent) in or outside India based on any research or information on biological resources obtained from India.\nStatutory Mandate: Section 6(1) of Biological Diversity Act.\nApplication Fee: ₹500 for Indian individuals / startups; ₹10,000 for large corporates / Section 3 entities.\nApproval Condition: Mandatory execution of Benefit Sharing Agreement with NBA before patent grant.",
+    "guidance": "Must be filed immediately upon submitting patent application. The Indian Patent Office (CGPDTM) will hold the patent grant in abeyance under Guiding Principle 6 until the NBA Form III approval letter is presented.",
+    "doctrines": [
+      "nba_form_3",
+      "ipr_clearance",
+      "patent_grant_condition",
+      "benefit_sharing_agreement"
+    ]
+  },
+  {
+    "id": "nba_form_4_third_party_transfer",
+    "category": "statutory_form",
+    "authority": "National Biodiversity Authority (NBA)",
+    "source_url": "http://nbaindia.org/content/16/14/1/forms.html",
+    "title": "NBA Form IV: Application for Seeking Prior Approval for Third-Party Transfer of Biological Resources",
+    "raw_text": "Form IV [See Rule 19 of Biological Diversity Rules, 2004]:\nApplication for third party transfer of biological resources or associated knowledge accessed under Form I.\nStatutory Mandate: Section 20 of Biological Diversity Act.\nApplication Fee: ₹10,000.\nRequired details: Justification for transfer, royalty sharing agreement, recipient company details.",
+    "guidance": "Sub-licensing patent rights or outsourcing herbal extract manufacturing to third-party contract manufacturers (CMOs) requires prior Form IV approval.",
+    "doctrines": [
+      "nba_form_4",
+      "third_party_transfer",
+      "contract_manufacturing",
+      "section_20_bda"
+    ]
+  },
+  {
+    "id": "nba_abs_guidelines_slabs",
+    "category": "abs_regulation",
+    "authority": "National Biodiversity Authority (NBA)",
+    "source_url": "http://nbaindia.org/content/17/14/1/abs.html",
+    "title": "Access and Benefit Sharing (ABS) Fee Calculation Slabs (2014 & 2024)",
+    "raw_text": "Guidelines on Access to Biological Resources and Associated Knowledge and Benefits Sharing Regulations:\n1. Mode A (Purchase Price Option): Commercial user pays between 3.0% to 5.0% of the purchase price of the biological resource accessed from local communities / State Biodiversity Boards.\n2. Mode B (Annual Ex-Factory Gross Sales Option for Finished Products):\n   - Slabs on annual gross ex-factory sale of product:\n     * Up to ₹1,00,00,000 (1 Crore): 0.1%\n     * ₹1,00,00,001 to ₹3,00,00,000 (1-3 Crores): 0.2%\n     * Above ₹3,00,00,000 (>3 Crores): 0.5%\n3. Commercialization of IPR (Patents):\n   - When applicant commercializes the patent directly: 0.2% to 1.0% of ex-factory sale.\n   - When applicant licenses/transfers IPR to third party: 2.0% to 5.0% of upfront fee + 2.0% to 5.0% of annual royalty.",
+    "guidance": "Engine uses these exact statutory formulas to calculate prospective ABS liability for Ayurvedic startup dossiers.",
+    "doctrines": [
+      "abs_calculation",
+      "benefit_sharing_slabs",
+      "ex_factory_slabs",
+      "ipr_licensing_royalties"
+    ]
+  },
+  {
+    "id": "nba_section_40_ntc_commodities",
+    "category": "abs_exemption",
+    "authority": "Ministry of Environment, Forest and Climate Change (MoEFCC) / NBA",
+    "source_url": "http://nbaindia.org/content/19/14/1/ntc.html",
+    "title": "Section 40 Normally Traded Commodities (NTC) Notification & 421 Species Exemption",
+    "raw_text": "Section 40 Exemption: The Central Government notifies 421 biological species as Normally Traded Commodities (NTC). Biological resources traded as agricultural commodities (e.g. Piper nigrum [black pepper], Zingiber officinale [ginger], Cuminum cyminum [cumin], Trigonella foenum-graecum [fenugreek]) are exempt from the provisions of the Biological Diversity Act.\nCRITICAL PROVISO: The exemption applies ONLY when accessed for normal agricultural trade. If the same botanical is used as raw material for patented pharmaceutical research, novel extraction, or proprietary drug manufacturing, the Section 40 exemption is NULLIFIED, and NBA/SBB compliance is mandatory.",
+    "guidance": "Essential legal nuance: An Ayurvedic company cannot claim Section 40 exemption for black pepper or turmeric if it files a patent claiming isolated piperine or curcumin nanoparticles for therapeutic applications.",
+    "doctrines": [
+      "section_40_ntc",
+      "normally_traded_commodities",
+      "agricultural_vs_patent_exemption"
+    ]
+  }
+]

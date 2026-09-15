@@ -1,0 +1,14 @@
+{
+  "id": "cgpdtm_tk_guidelines_gp2",
+  "category": "examination_guideline",
+  "source": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+  "source_url": "https://ipindia.gov.in/guidelines-patents.htm",
+  "title": "Guiding Principle 2 (GP-2): Assessment of Section 3(p) Traditional Knowledge Bar",
+  "raw_text": "Guiding Principle 2: If the subject matter of an application relates to a known traditional medicinal plant or a formulation containing known herbs, and the claimed therapeutic effect is known in traditional knowledge, the application falls under the exclusion of Section 3(p) of the Patents Act, 1970. Mere presentation in a modern dosage form (such as a tablet, capsule, or syrup) does not impart patentability to a classical Ayurvedic recipe.",
+  "guidance": "Reformulating an Ayurvedic churnam into an effervescent tablet or enteric-coated capsule is considered routine galenical formulation and cannot overcome Section 3(p) unless accompanied by unexpected pharmacokinetic or pharmacodynamic properties.",
+  "doctrines": [
+    "gp2_sec3p_bar",
+    "modern_dosage_forms",
+    "cgpdtm_guidelines"
+  ]
+}

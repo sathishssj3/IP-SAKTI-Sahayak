@@ -1,0 +1,18 @@
+{
+  "id": "trademarks_act_1999_sec9_1_b",
+  "act": "The Trade Marks Act, 1999",
+  "act_number": "Act No. 47 of 1999",
+  "section": "Section 9(1)(b)",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1993",
+  "authority": "Trade Marks Registry (CGPDTM)",
+  "amendment_year": 1999,
+  "in_force": true,
+  "title": "Absolute grounds for refusal of registration: Descriptive Names",
+  "raw_text": "The trade marks—\n(b) which consist exclusively of marks or indications which may serve in trade to designate the kind, quality, quantity, intended purpose, values, geographical origin or the time of production of the goods or of rendering of the service, or other characteristics of the goods or service, shall not be registered.",
+  "guidance": "Ayurvedic brand names cannot monopolize generic Sanskrit herb names (e.g. 'Ashwagandha Oil', 'Triphala Churna', 'Pure Curcumin') as trademarks in Class 5. Distinctive invented brand prefixes (e.g. 'Vedix Triphala-Active') are required to overcome Section 9(1)(b) objections.",
+  "doctrines": [
+    "trademark_refusal",
+    "descriptive_ayurvedic_terms",
+    "class_5_pharma"
+  ]
+}

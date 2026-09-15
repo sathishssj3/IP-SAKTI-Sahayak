@@ -1,0 +1,15 @@
+{
+  "id": "cgpdtm_tk_guidelines_gp1",
+  "category": "examination_guideline",
+  "source": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)",
+  "source_url": "https://ipindia.gov.in/guidelines-patents.htm",
+  "title": "Guiding Principle 1 (GP-1): Exhaustive Search in Traditional Knowledge Digital Library (TKDL)",
+  "raw_text": "Guiding Principle 1: An exhaustive search shall be carried out in the Traditional Knowledge Digital Library (TKDL) and other classical and contemporary traditional knowledge databases before proceeding with examination of patent applications involving plants, minerals, or traditional formulations. The examiner must verify whether the claimed medicinal utility is already cited in Sanskrit, Urdu, Arabic, Persian, or Tamil classical texts.",
+  "guidance": "Inventors must conduct pre-filing TKDL and prior-art searches. If the formulation or therapeutic use is recorded in TKDL, the patent examiner will cite the classical shloka / formulation code as novelty-destroying prior art.",
+  "doctrines": [
+    "gp1_prior_art_search",
+    "tkdl_search",
+    "cgpdtm_guidelines",
+    "novelty_examination"
+  ]
+}

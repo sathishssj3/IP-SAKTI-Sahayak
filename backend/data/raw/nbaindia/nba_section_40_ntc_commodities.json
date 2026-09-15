@@ -1,0 +1,14 @@
+{
+  "id": "nba_section_40_ntc_commodities",
+  "category": "abs_exemption",
+  "authority": "Ministry of Environment, Forest and Climate Change (MoEFCC) / NBA",
+  "source_url": "http://nbaindia.org/content/19/14/1/ntc.html",
+  "title": "Section 40 Normally Traded Commodities (NTC) Notification & 421 Species Exemption",
+  "raw_text": "Section 40 Exemption: The Central Government notifies 421 biological species as Normally Traded Commodities (NTC). Biological resources traded as agricultural commodities (e.g. Piper nigrum [black pepper], Zingiber officinale [ginger], Cuminum cyminum [cumin], Trigonella foenum-graecum [fenugreek]) are exempt from the provisions of the Biological Diversity Act.\nCRITICAL PROVISO: The exemption applies ONLY when accessed for normal agricultural trade. If the same botanical is used as raw material for patented pharmaceutical research, novel extraction, or proprietary drug manufacturing, the Section 40 exemption is NULLIFIED, and NBA/SBB compliance is mandatory.",
+  "guidance": "Essential legal nuance: An Ayurvedic company cannot claim Section 40 exemption for black pepper or turmeric if it files a patent claiming isolated piperine or curcumin nanoparticles for therapeutic applications.",
+  "doctrines": [
+    "section_40_ntc",
+    "normally_traded_commodities",
+    "agricultural_vs_patent_exemption"
+  ]
+}

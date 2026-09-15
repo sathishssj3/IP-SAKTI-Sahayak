@@ -1,0 +1,15 @@
+{
+  "id": "tkdl_landmark_case_neem",
+  "category": "defensive_prior_art_case",
+  "authority": "CSIR-TKDL / EPO",
+  "source_url": "https://www.csir.res.in/tkdl",
+  "title": "Landmark Defense 2: Revocation of European Patent EP 0436257 (Neem / Azadirachta indica)",
+  "raw_text": "Case Analysis: European Patent No. EP 0436257 titled 'Method for controlling fungi on plants by the aid of a hydrophobic extracted neem oil' granted to W.R. Grace & Co. and US Department of Agriculture in 1995.\nChallenged By: Research Foundation for Science, Technology and Ecology (RFSTE) & CSIR.\nPrior Art Cited: Classical Indian Ayurvedic and agricultural literature documenting the insecticidal, anti-fungal, and preservative properties of neem bark and seed extract emulsions for millennia.\nOutcome: European Patent Office (EPO) Opposition Division and Technical Board of Appeal completely revoked the patent in May 2000 for lack of novelty and lack of inventive step under Article 54 and 56 EPC.",
+  "guidance": "Precedent establishes that extracting neem oil with conventional hydrophobic solvents is an obvious adaptation of traditional knowledge and unpatentable without structural modification.",
+  "doctrines": [
+    "neem_case",
+    "azadirachta_indica",
+    "epo_revocation",
+    "traditional_fungicide"
+  ]
+}

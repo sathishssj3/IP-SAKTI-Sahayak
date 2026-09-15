@@ -1,0 +1,18 @@
+{
+  "id": "patents_act_1970_sec3p",
+  "act": "The Patents Act, 1970",
+  "act_number": "Act No. 39 of 1970",
+  "section": "Section 3(p)",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1392",
+  "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce and Industry",
+  "amendment_year": 2005,
+  "in_force": true,
+  "title": "Inventions not patentable: Traditional Knowledge Exclusion",
+  "raw_text": "What are not inventions: The following are not inventions within the meaning of this Act:—\n(p) an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components.",
+  "guidance": "Classical Ayurvedic formulations recorded in First Schedule authoritative texts (e.g., Charaka Samhita, Sushruta Samhita) cannot be patented as compositions. To overcome Section 3(p), the applicant must demonstrate isolation of novel bioactive molecules, significant structural modifications, novel mechanisms of action, or novel drug delivery systems (NDDS) not disclosed in traditional literature.",
+  "doctrines": [
+    "traditional_knowledge",
+    "patentability_exclusion",
+    "section_3p"
+  ]
+}
